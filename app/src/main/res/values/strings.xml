@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Metric</string>
+    <string name="metirc_calculator">Metirc Calculator</string>
+    <string-array name="ITEMS">
+        <item>"CURRENCY"</item>
+        <item>"TEMPERATURE"</item>
+        <item>"LENGTH"</item>
+        <item>"WEIGHT"</item>
+    </string-array>
+</resources>
